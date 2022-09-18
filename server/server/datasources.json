@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "dwpdb": {
+    "host": "postgresql",
+    "port": 5432,
+    "url": "",
+    "database": "dwpdb",
+    "password": "dbpass",
+    "name": "dwpdb",
+    "user": "dbuser",
+    "connector": "postgresql"
+  }
+}
